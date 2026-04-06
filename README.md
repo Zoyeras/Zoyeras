@@ -1,20 +1,16 @@
 <h1 align="center">Samuel Loaiza | Zoyeras</h1>
 
 <p align="center">
-	ES | <a href="#about-me">EN</a>
-</p>
-
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=10B981&center=true&vCenter=true&width=800&lines=Construyendo+cosas+que+valen+la+pena.;Codigo+limpio%2C+ideas+grandes%2C+impacto+real.;Siempre+aprendiendo%2C+siempre+creando." alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=4ADE80&center=true&vCenter=true&width=800&lines=Construyendo+cosas+que+valen+la+pena.;Codigo+limpio%2C+ideas+grandes%2C+impacto+real.;Siempre+aprendiendo%2C+siempre+creando." alt="Typing SVG" />
 </p>
 
 <p align="center">
 	<a href="https://github.com/Zoyeras">
-		<img src="https://img.shields.io/github/followers/Zoyeras?label=Seguidores&style=for-the-badge&color=10b981&labelColor=0f172a" alt="GitHub Followers" />
+		<img src="https://img.shields.io/github/followers/Zoyeras?label=Seguidores&style=for-the-badge&color=4ade80&labelColor=05020f" alt="GitHub Followers" />
 	</a>
-	<img src="https://img.shields.io/badge/Focus-Build%20%26%20Ship-10b981?style=for-the-badge&labelColor=0f172a" alt="Focus" />
-	<img src="https://img.shields.io/badge/Status-En%20modo%20creador-34d399?style=for-the-badge&labelColor=1e293b" alt="Status" />
-	<img src="https://img.shields.io/badge/Rol-Full%20Stack-059669?style=for-the-badge&labelColor=0f172a" alt="Rol" />
+	<img src="https://img.shields.io/badge/Focus-Build%20%26%20Ship-7c3aed?style=for-the-badge&labelColor=05020f" alt="Focus" />
+	<img src="https://img.shields.io/badge/Status-En%20modo%20creador-a78bfa?style=for-the-badge&labelColor=05020f" alt="Status" />
+	<img src="https://img.shields.io/badge/Rol-Full%20Stack-4ade80?style=for-the-badge&labelColor=05020f" alt="Rol" />
 </p>
 
 ---
@@ -31,7 +27,7 @@ Me gusta convertir ideas en productos que funcionen de verdad: desde el prototip
 
 ## Stack
 
-> Paleta visual: grafito + esmeralda.
+> Paleta visual: #4ade80, #7c3aed, #a78bfa, #05020f.
 
 <p>
 	<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,tailwind,vite,docker,linux,git" alt="Tech Stack" />
@@ -55,16 +51,6 @@ Me gusta convertir ideas en productos que funcionen de verdad: desde el prototip
 - JetBrains
 - Git
 
-## About me
-
-I am Samuel Loaiza, also known as Zoyeras.
-I am a Full Stack developer with a strong backend focus and a performance-first mindset.
-I enjoy turning ideas into real products, from prototype to production.
-
-- Currently: building robust and useful products.
-- Mindset: learn fast, iterate hard, improve constantly.
-- Work style: clean code, solid practices, and consistent execution.
-
 ## Que estoy haciendo ahora
 
 - Construyendo y mejorando sistemas con foco en rendimiento real.
@@ -83,38 +69,22 @@ I enjoy turning ideas into real products, from prototype to production.
 - Stack: arquitectura orientada a integracion y ejecucion confiable.
 - Resultado: procesos mas rapidos, trazables y mantenibles.
 
-## Featured Projects
-
-### Taskmanager
-- What it does: organizes tasks, priorities, and daily flow in a clear and fast interface.
-- Stack: backend and frontend focused on productivity and performance.
-- Outcome: better operational focus for personal and professional work.
-
-### Automation program
-- What it does: automates repetitive processes to reduce manual work and errors.
-- Stack: architecture focused on integration and reliable execution.
-- Outcome: faster, traceable, and maintainable processes.
-
 ## Estadisticas
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zoyeras&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=34d399&border_color=0f172a" alt="GitHub Stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoyeras&layout=compact&hide_border=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&border_color=0f172a" alt="Top Languages" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zoyeras&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&bg_color=05020f&title_color=4ade80&text_color=e9d5ff&icon_color=a78bfa&border_color=05020f" alt="GitHub Stats" />
+	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zoyeras&layout=compact&langs_count=8&hide_border=true&bg_color=05020f&title_color=4ade80&text_color=e9d5ff&border_color=05020f" alt="Top Languages" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=Zoyeras&hide_border=true&background=0f172a&ring=10b981&fire=34d399&currStreakNum=34d399&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
+	<img src="https://streak-stats.demolab.com?user=Zoyeras&hide_border=true&background=05020f&ring=4ade80&fire=7c3aed&currStreakNum=a78bfa&currStreakLabel=e9d5ff&sideNums=e9d5ff&sideLabels=a78bfa&dates=9ca3af" alt="GitHub Streak" />
 </p>
 
 ## Filosofia
 
 > "Un proyecto es realmente hermoso cuando carga en pocos milisegundos"
 
-## Philosophy
-
-> "A project is truly beautiful when it loads in just a few milliseconds"
-
-## Contacto | Contact
+## Contacto
 
 - GitHub: https://github.com/Zoyeras
 - Email: loaizaocampos@gmail.com
